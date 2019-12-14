@@ -26,8 +26,6 @@ stesso giorno.
 
 E' possibile trovare le seguenti informazioni all'interno della [relazione](https://github.com/elpanas/GymManager/blob/master/relazione.pdf):
 
-**I – Specifica del problema**
-
 **II – Specifica dei requisiti**
 
 **III – Analisi e Progettazione**
